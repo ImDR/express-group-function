@@ -1,5 +1,5 @@
 {
-  "name": "express-groups",
+  "name": "express-group",
   "version": "1.0.0",
   "description": "Module for grouping express routes",
   "main": "index.js",
