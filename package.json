@@ -1,10 +1,14 @@
 {
-  "name": "express-group",
+  "name": "express-group-function",
   "version": "1.0.0",
-  "description": "Module for grouping express routes",
+  "description": "Group express routes and middleware",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ImDR/express-group-function.git"
   },
   "author": "imdr <dineshrawataias@gmail.com> (https://imdr.github.io/)",
   "license": "MIT",
