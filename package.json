@@ -1,0 +1,14 @@
+{
+  "name": "express-groups",
+  "version": "1.0.0",
+  "description": "Module for grouping express routes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "imdr <dineshrawataias@gmail.com> (https://imdr.github.io/)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
